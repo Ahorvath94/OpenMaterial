@@ -1,2 +1,2 @@
 # OpenMaterial
-A repository containing material properties for mechanical and thermal design
+A repository with the intent of aggregating accurate material properties for mechanical and thermal design
