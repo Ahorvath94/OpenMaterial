@@ -1,5 +1,18 @@
 # OpenMaterial
-A repository with the intent of aggregating accurate material properties for mechanical and thermal design
+A repository with the intent of aggregating accurate material properties for mechanical and thermal design with the use of MIL-HDBK-5J, an aerospace engineering materials resource. The intent of this repository is to allow software such as python, MATLAB or FEA tools to quickly import material data for design purposes.
+
+
+To do:
+
+Add ultimate tensile strength, ultimate shear strength, ultimate compressive strength, yield strength, density and young's modulus to excel sheet for each material in MIL-HDBK-5J.
+Add thermal conductivity for each material.
+
+
+
+
+
+
+
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
